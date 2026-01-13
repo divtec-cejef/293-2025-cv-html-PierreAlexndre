@@ -62,3 +62,11 @@ footer {
 img {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
+
+h1 {
+font-size: 32px;
+}
+
+p {
+font-size: 1rem;
+}
